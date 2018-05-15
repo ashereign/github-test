@@ -1,1 +1,4 @@
-In order to calculate the gravitational force between two objects with masses of m1 and m2 , the equation is: where G is the gravitational constant (6.67E-11 m3 s-2 kg-1), r is the distance between the two objects, and F is the magnitude of the force between the objects. This sounds complicated. Ask Google for more help. 
+In order to calculate the gravitational force between two objects with masses of m1 and m2 , the equation is: where G is the gravitational constant (6.67E-11 m3 s-2 kg-1), r is the distance between the two objects, and F is the magnitude of the force between the objects. 
+
+
+added notes: The weight of an object is the gravitational force between the object and the Earth. The more mass the object has the greater its weight will be. Weight is a force, so it's measured in newtons. On the surface of the Earth an object with a mass of 1 kg has a weight of about 10 N.
